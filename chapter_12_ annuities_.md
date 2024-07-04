@@ -45,4 +45,5 @@ Here are the detailed notes on annuities:
 - 1035 Exchange allows tax-free transfer between annuity contracts
 - Highest payments for life annuity, lowest for joint & survivor annuity
 
+Variable annuities are designed for long-term growth and offer numerous investment choices to align with investor objectives. Their growth is not currently taxable, which helps them accumulate strong values. Although many offer liquidity provisions that allow withdrawals of a certain percentage of the account value each year (often 10%), there are surrender charges associated with larger or more frequent withdrawals, so they do not provide substantial liquidity.
 [End of Notes]

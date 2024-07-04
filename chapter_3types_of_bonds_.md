@@ -194,3 +194,24 @@ quoted as a percentage of par in
 1/32nds. 
 Government bills are quoted on
 a discounted yield basis.
+
+**Senior Secured Debt**
+Definition: Debt that is backed by specific collateral, such as property, equipment, or other tangible assets. In the event of default, lenders have a legal claim to the collateral.
+**Examples:**
+
+  Mortgages: Loans secured by real estate.
+  Equipment Loans: Loans secured by machinery or equipment.
+  Secured Bonds: Bonds backed by specific assets of the issuing company.
+
+**Unsecured Senior Debt**
+Definition: Debt that is not backed by any specific collateral. In the event of default, unsecured lenders have a general claim on the company's assets, but they are not prioritized over secured debt holders.
+**Examples:**
+  Senior Unsecured Bonds: Bonds not backed by specific assets.
+  Revolving Credit Facilities: Lines of credit extended to a company without specific collateral.
+  Term Loans: Unsecured loans with a set repayment schedule.
+
+
+  A debenture is the common term for an unsecured debt instrument of a corporation or bank. It's main backing comes from the credit worthiness of the issue
+
+
+  The conversion price is the price at which a convertible bond can be converted into shares of the company's stock. The conversion price is set at the time the bond is issued. The conversion ratio equals par value / conversion price. The conversion value is the current value of the bond if it is was converted today. The conversion premium is calculated as the spread between the market price of the convertible bond and the price at which it can be converted, expressed as a percentage.

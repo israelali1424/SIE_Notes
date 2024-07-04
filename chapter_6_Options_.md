@@ -161,3 +161,19 @@ Overall, the OCC plays a crucial role in maintaining the efficiency, transparenc
    - **Obligation (For sellers):** You MUST uphold your end of the contract, should the buyer decide to exercise the contract or not.
    - Selling a put option means you're taking on the OBLIGATION to buy a security at a predetermined price in the future.
    - You receive a premium for taking on this obligation, but you also take on risk.
+
+
+**intrinsic value and time value**
+When an option contract is out of the money, the premium of the contract consists of time value only. When an option contract is in the money, the premium will consist of both intrinsic value and time value
+
+The intrinsic value of an option is the inthe-money amount. These calls have
+intrinsic value because the market price
+is greater than the strike price.
+
+All orders placed below the market are
+adjusted downward on the ex-dividend
+date by the amount of the dividend.
+Orders placed below the market are buy
+limits, sell stops, and sell stop limits. Sell
+limits, buy stops and buy stop limits are
+not adjusted on the ex-dividend date.

@@ -6,3 +6,5 @@ Commingling: This refers to mixing client funds with the broker's own money or t
 
 Gun jumping refers to actions taken by companies or individuals that violate securities laws by prematurely sharing information or engaging in activities before a regulatory period or requirement has been met. There are two main contexts where gun jumping is commonly discussed: antitrust laws and securities laws.
 
+
+ Misappropriation occurs when persons steal information from their employer and trade on that information in any stock, not just their employer's stock. The misappropriation theory broadens the liability for misuse of inside information and is illegal.

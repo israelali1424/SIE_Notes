@@ -8,6 +8,8 @@ Leading Indicators
 2. **Building Permits**: An increase in building permits suggests future construction activity and economic growth.
 3. **Consumer Confidence Index**: Measures the level of confidence consumers have in the economy, which can predict future spending and economic activity.
 4. **Manufacturers' New Orders**: An increase in new orders for goods suggests future production increases.
+5. **Money Supply**
+6. **Housing strats**
 
 ### Lagging Indicators
 **Definition**: Economic indicators that follow an event. They are used to confirm trends and patterns in the economy or market after the changes have occurred.

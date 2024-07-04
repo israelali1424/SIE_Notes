@@ -138,3 +138,6 @@ relatively few trading participants in the
 security, often attributable to the fact that
 these are typically unknown publicly
 traded companies
+
+
+Buy stops and sell limits are both placed above the current market price. Buy limits and sell stops are both placed below the current market price.

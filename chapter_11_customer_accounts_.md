@@ -160,3 +160,15 @@ A simple trust distributes all of its income to its beneficiaries in the year it
  A complex trust does not necessarily distribute all of its earned income to its beneficiaries. 
  A charitable trust is for individuals who want to leave part or all of their estate to charity. 
 A revocable trust can be revoked (eliminated) at any time prior to death by the person who owns the assets (the trustor).
+
+
+A fee-based account would be
+appropriate for an investor who will place
+a large number of trades. An investor
+placing a small number of trades would
+likely have a commission based account.
+**Markdown and Markups
+
+Principal (dealer) transactions involve financial professionals and their firms performing transactions directly with their clients in return for markups and markdowns. When a purchase order is submitted by a client, the firm sells the security to the client from their own inventory at a "marked up" price. When a sale order is submitted by a client, the firm buys the security at a "marked down" price and places it into their inventory.
+
+Commissions are charged for agency (broker) transactions, while sales loads are assessed on mutual fund transactions.

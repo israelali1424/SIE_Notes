@@ -157,3 +157,11 @@ Reference: Textbook Section: 3.4.4
 Income tax is only on interest income
 earned on U.S. government bonds at the
 federal level.
+
+Treasury bonds trade with accrued interest using actual day months, a 365- day year, and settle T+1. If the trade settles on Feb 24th and interest is paid
+every January 1st and July 1st, the number of days of accrued interest between January 1st:
+January ? 31 days
+February ? 23 days
+54 days
+
+Bonds that are retired through a sinking fund have less default risk, because the issuer is making payments in advance to a trustee to buy bonds in the open market. This reduction of principal risk allows the issuer to offer these bonds at a lower interest rate.

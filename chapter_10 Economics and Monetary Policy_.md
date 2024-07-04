@@ -107,3 +107,11 @@
 - Purchasing power parity: Exchange rate where the same goods cost the same in different currencies.
 
 - Strong USD benefits US importers and foreign exporters. Weak USD benefits US exporters and foreign importers.
+Stagflation is characterized by increasing
+prices amid high unemployment in a
+stagnant economy. Inflation is
+characterized by increasing prices amid
+an expanding economical period.
+
+Recession 2 quters of fall gdp 
+Depression 5 quaters of falling gdp
