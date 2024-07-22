@@ -7,3 +7,4 @@ and sell stop are going to be the order types that automatically
 get reduced on the X dividend date.
 
 Buy stops and sell limits are both placed above the current market price. Buy limits and sell stops are both placed below the current market price.
+

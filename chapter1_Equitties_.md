@@ -158,3 +158,27 @@ For regular way trades in equities, the ex-dividend date is the record date. As 
 
 
 Authorized shares are what the corporation has listed in its articles of incorporation. Authorized shares is a big, somewhat arbitrary number reflecting what could be issued, not what has been issued. The portion of authorized stock that has been sold to to shareholders is called issued stock. Treasury stock represents shares of issued stock that have been repurchased by the company and removed from public circulation. Treasury stock is treated as though it is still in the hands of the shareholder, in this case the corporation, hence it is still considered issued stock, however it has no voting rights and pays no dividends. When treasury stock is withdrawn from issued stock, the amount of stock remaining in circulation is the number of shares outstanding. Shares outstanding represents all shares in circulation and it is this number that is used to determine market capitalization and earnings per share.
+
+
+When a corporation that has regularly
+paid dividends skips dividend payments,
+investors may shun the stock. Less
+buyer interest will cause the price to fall,
+and the current yield (annual
+dividends/market price) to outstanding
+shareholders will decrease. Dividend
+payments are not guaranteed to
+outstanding shareholders, so it is not a
+violation of shareholder rights to skip a
+dividend.
+
+Treasury stock is stock that has been
+issued and repurchased by a
+corporation. Treasury stock does not
+carry the same rights as outstanding
+common stock, which entitles
+shareholders to voting rights and
+dividends. Corporations may repurchase
+stock to fund employee bonus plans, for
+use in future acquisitions, or to increase
+earnings per share.

@@ -165,3 +165,8 @@ February ? 23 days
 54 days
 
 Bonds that are retired through a sinking fund have less default risk, because the issuer is making payments in advance to a trustee to buy bonds in the open market. This reduction of principal risk allows the issuer to offer these bonds at a lower interest rate.
+
+Accretion
+The increase in value of a bond that was purchased at a discount, or less than its face value, as it approaches maturity. Accretion can also refer to the growth in earnings and assets after a merger or acquisition.
+Amortization
+The decrease in value of a bond that was purchased at a premium, or more than its face value, as it approaches maturity. Amortization can also refer to the accounting technique used to depreciate intangible assets, such as patents, trademarks, and loans, over their estimated useful life

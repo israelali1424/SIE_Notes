@@ -23,6 +23,19 @@ Investment companies were formed when Congress passed the Investment Company Act
      - **Secondary Market:** Robust secondary market on exchanges or over the counter.
      - **Pricing:** Market-driven based on supply and demand or bid-ask spread.
 
+
+### Net Asset Value (NAV) of a Mutual Fund
+
+The Net Asset Value (NAV) of a mutual fund is calculated using the following steps:
+
+1. **Total Value of Investment Holdings:** Add the total value of the fund's investment holdings.
+2. **Subtract Fees and Expenses:** Subtract the fund's fees and expenses from the total value.
+3. **Divide by Number of Shares:** Divide the resulting figure by the number of shares of the fund that investors currently own.
+
+\[
+\text{NAV} = \frac{\text{Total Value of Investment Holdings} - \text{Fees and Expenses}}{\text{Number of Shares}}
+\]
+
 2. **Unit Investment Trusts (UIT):**
 
    - A trust with a board of trustees.
@@ -122,6 +135,10 @@ Other Expenses: Miscellaneous costs outside 12b-1 fees.
 However, Rule 12b-1 under the Investment Company Act of 1940 allows mutual funds to use shareholder assets to cover distribution expenses. So, an organization using a 12b-1 plan essentially allows its mutual funds to tap into shareholder investments to pay for marketing, advertising, and other costs associated with selling the fund's shares.
 
 The expense ratio is a crucial factor for investors, representing the annual cost for the fund's operations.
+
+The value of mutual fund shares falls when the value of securities in the portfolios decreases and when the portfolio makes dividend or capital gains distributions. There is no change in NAV when new shares are issued or when shares are redeemed. In these situations new cash coming in is offset by new shares issued
+
+
 
 Share Classes: A, B, and C
 Class A Shares

@@ -13,7 +13,7 @@ This lesson covers different accounts that offer tax incentives for saving for r
 - **Qualified:** Meet ERISA guidelines and offer tax-deductible contributions.
 - **Defined Benefit:** Employer promises a specific retirement benefit based on factors like salary and service.
 - **Defined Contribution:** Employee and employer contributions determine retirement benefits based on investment performance.
-- **Non-Qualified:** Don't meet ERISA guidelines and offer after-tax contributions, but earnings are tax-deferred.
+- **Non-Qualified:** Don't meet ERISA guidelines and offer after-tax contributions, but earnings are tax-deferred.Be aware you'll have to pay a 6% penalty each year for every year the excess amounts stay in the IRA
 
 **Education Plans:**
 - **529 Plans:** Allow tax-free growth and withdrawals for qualified education expenses.
@@ -105,7 +105,11 @@ This lesson covers different accounts that offer tax incentives for saving for r
 - Contributions are made with after-tax dollars.
 - Earnings and qualified withdrawals are tax-free.
 - No RMDs.
-  
+  **Penalties** 
+  - Be aware you'll have to pay a 6% penalty each year for every year the excess amounts stay in the IRA
+  - Failure to take an RMD subjects the account owner or beneficiary to a 25% federal excise tax on the under-distribution amount. In this case, the under-distribution is $4,000 and the tax is $1,000.
+
+  - A 10% penalty is applied to early withdrawals from a Roth IRA if the account is less than five years old and the account holder is younger than 59½ years old. This penalty applies to earnings withdrawn, but not contributions, which can be withdrawn at any time without penalty. In addition to the penalty, the account holder may also owe income tax on the withdrawal.
 **Additional Points**
 - IRAs can be invested in a variety of assets like stocks, bonds, and mutual funds.
 - Spousal IRAs allow contributions based on a spouse's earned income.

@@ -1,0 +1,1 @@
+Any associated person that is primarily engaged in municipal underwriting, trading, sales, financial advisory, research, or consultant services is classified as a municipal finance professional subject to MSRB Rule G-37. Registered representatives who do little municipal securities business are generally excluded from the definition.
