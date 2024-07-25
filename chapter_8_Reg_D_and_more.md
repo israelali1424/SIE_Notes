@@ -96,5 +96,7 @@ Rule 144 allows public resale of restricted and control securities if a number o
 
 The registration statement and prospectus contain the most important disclosures that are required of publicly offered securities under the '33 Act. Prior to the offering, the SEC will review the registration and preliminary prospectus for completeness, and it may request amendments or additions in these documents, before the offering can proceed. Recall, however, the SEC never actually approves or disapproves of the actual securities.
 
-
 An offering memorandum is a disclosure document usually provided for exempt transactions, such as Regulation D or Regulation A offerings.
+
+![UnderWritingTimeline](./photos/Underwriting_timeline.png)
+![Exempt_Transcations](./photos/Exempt_Transactions.png)

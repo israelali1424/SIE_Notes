@@ -28,3 +28,6 @@ Using shell companies and trusts to hide the true ownership.
 Converting the money into other forms of assets, like securities or properties.
 Conducting international wire transfers to obscure the money trail.
 Integration: This is the final stage, where the laundered money is integrated into the legitimate economy. The now "clean" money is made available to the criminal for use. Methods include:
+
+
+Check the area of focus from exam for deatils

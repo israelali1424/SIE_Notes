@@ -115,3 +115,15 @@ an expanding economical period.
 
 Recession 2 quters of fall gdp 
 Depression 5 quaters of falling gdp
+
+
+If the trade deficit is growing smaller, foreign buyers are buying more U.S. goods. This is because foreign currency has strengthened against the dollar. The value of the dollar against foreign currency and interest rates move in the same direction. So if the dollar is weakening, interest rates are falling, and bond prices are rising.
+
+Counter-cyclical stocks are negatively correlated to the overall performance of the economy. In other words, they perform well when the economy is declining, and less well when the economy is strengthening. No correlation means that there is no relationship. Counter-cyclical stocks can be very effective in hedging other cyclical stocks against an economic decline as their price has a tendency to strengthen in a contracting economy.
+
+The balance of payments is the money going out of a country versus the money flowing into a country. A favorable balance of payments is when the net balance of payments results in more
+money coming into a country. The only transaction that results in money flowing into the U.S. is the Chinese government (or any foreign investor) buying securities in the United States
+Foreign investors selling U.S. stocks and a U.S. corporation moving its headquarters both result in cash leaving the United States. U.S. taxpavers paving taxes to the U.S. government doesn't
+**Deflation**
+Deflation is considered a reduction in the general level of prices. Deflation leads to lower interest rates, which results in higher bond prices. Equities tend to perform well during periods of
+inflation, not deflation.

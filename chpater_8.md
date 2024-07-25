@@ -161,3 +161,21 @@ As long as their assets under management are under $150 million, hedge funds are
 In most public offerings, an issuer will register and issue a specified number of securities and will attempt to sell all the securities in one day. If an issuer has issued securities previously and is a large enough company, it may file what is called a shelf registration (shelf offering). A
 
 A shelf registration is good for up to three years, meaning that sales of the securities can be postponed for up to three years before having to file a new registration statement. 
+
+![UnderWritingTimeline](./photos/Underwriting_timeline.png)
+
+
+# Aftermarket Prospectus Delivery Requirements
+
+## Reporting Issuer
+
+- **Definition**: An issuer subject to the reporting requirements of the Securities Exchange Act of 1934 prior to the filing of the registration statement.
+- **Aftermarket Prospectus Delivery Requirement**: No requirement for dealers to deliver a prospectus in the aftermarket.
+- **Listing**: An issuer listed on the NYSE or Nasdaq is required to file reports with the SEC.
+
+## Non-Reporting Issuer
+
+- **Definition**: An issuer filing for an IPO and not previously subject to the reporting requirements.
+- **Aftermarket Prospectus Delivery Requirement**:
+  - If the securities will be subsequently listed on the NYSE or Nasdaq, the firm is required to deliver a prospectus to any purchaser in the aftermarket.
+  - This delivery must occur within 25 days of the effective date.

@@ -178,6 +178,26 @@ placing a small number of trades would
 likely have a commission based account.
 \*\*Markdown and Markups
 
+
+# Factors in Determining a Fair Markup or Commission
+
+Among the relevant factors that a member may consider in determining a fair markup or commission are the following:
+
+- **The type of security involved**
+  - Common stock would normally demand a higher markup than debt.
+- **The availability of the security in the market**
+  - Whether it is actively or inactively traded.
+- **The price of the security**
+- **The amount of money involved in the transaction**
+- **Disclosure**
+  - Made prior to the execution of the transaction may be relevant.
+- **The pattern of markups**
+- **The nature of the member firm's business**
+  - What type of services does the member provide to the customer?
+
+**Note:** The type of client is not specifically mentioned in the rules as determining whether the markup or commission is fair and reasonable.
+
+
 Principal (dealer) transactions involve financial professionals and their firms performing transactions directly with their clients in return for markups and markdowns. When a purchase order is submitted by a client, the firm sells the security to the client from their own inventory at a "marked up" price. When a sale order is submitted by a client, the firm buys the security at a "marked down" price and places it into their inventory.
 
 Commissions are charged for agency (broker) transactions, while sales loads are assessed on mutual fund transactions.

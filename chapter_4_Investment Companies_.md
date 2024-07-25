@@ -86,6 +86,7 @@ Number of Shares: Unlimited.
 Capitalization: Continuous offering.
 Secondary Market: No real secondary market; transactions directly with the fund.
 Pricing: Purchased at the public offer price (NAV + sales charge), sold at NAV.
+Open can do full or fraction shares 
 Closed-End Funds:
 
 Number of Shares: Fixed.
@@ -261,4 +262,42 @@ POP = 9.50 * (100% / 95%)
    = 9.50 * (100% / 95%)
    = 9.50 * (100 / 95)
    ≈ 10.00
+
+
+# Roles in a Mutual Fund
+
+## A. The Custodian Bank
+
+- **Role**: Safeguards the fund's assets.
+- **Responsibilities**:
+  - Holds and protects the securities and cash owned by the mutual fund.
+  - Ensures the proper handling and safekeeping of the fund's investments.
+  - May perform additional functions like accounting and record-keeping for the fund’s securities.
+
+## B. The Transfer Agent
+
+- **Role**: Manages the mutual fund's shareholder records and transactions.
+- **Responsibilities**:
+  - Maintains records of shareholder accounts.
+  - Processes purchases and redemptions of the mutual fund shares.
+  - Sends account statements, transaction confirmations, and distributions to shareholders.
+  - Provides customer service to fund shareholders.
+
+## C. The Investment Adviser
+
+- **Role**: Manages the investment portfolio of the mutual fund.
+- **Responsibilities**:
+  - Makes investment decisions based on the fund's objectives and strategies.
+  - Conducts research and selects securities for the fund’s portfolio.
+  - Monitors the performance of the investments.
+  - Provides investment advisory services for a fee, typically a percentage of the fund's assets.
+
+## D. The Underwriter
+
+- **Role**: Distributes the mutual fund shares to investors.
+- **Responsibilities**:
+  - Markets and sells the mutual fund shares.
+  - Works with brokers and financial advisors to promote the fund.
+  - Facilitates the initial sale of shares and helps bring new investors to the fund.
+  - Often affiliated with the fund’s management company and receives compensation for its services.
 

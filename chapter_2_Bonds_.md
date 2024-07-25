@@ -21,6 +21,9 @@ VII. Bond Yields
 
 - Return if the bond is called before maturity.
 
+**Where to buy bonds** 
+Unlike equity trading, bond trading usually takes place between dealers in decentralized over-the-counter markets. Bonds are typically bought and sold by institutions; individuals are more likely to purchase bond funds. The spread between bid and offer price is typically the compensation for a bond trade, while equity trades are typically compensated by brokerage commissions.
+
 ### Sequence of yields on a discount bond:
 
 1. **Nominal Yield (Coupon):** Indicated by terms like "coupon" or the bond's rate.
