@@ -182,3 +182,18 @@ dividends. Corporations may repurchase
 stock to fund employee bonus plans, for
 use in future acquisitions, or to increase
 earnings per share.
+
+- **Conversion Rights**:
+  - Preferred shareholders have the right to convert their preferred stock into common stock at any time.
+  - The amount of shares to be converted is determined as the issue price of the preferred stock divided by the conversion price.
+
+- **Liquidation Preference**:
+  - Refers to the amount of money per share that a preferred shareholder will receive prior to any distribution to common shareholders in the event of a liquidation of the company.
+  - This amount is typically determined as a multiple of the issue price of the preferred stock.
+
+- **Antidilution Provisions**:
+  - Provisions in preferred stock that protect the holder against transactions such as stock splits, dividends, and other dilutive transactions the issuer may undertake.
+
+- **Redemption Rights**:
+  - Preferred holders have the right to force the issuer to buy back the issue at some point in the future.
+  - Preferred holders typically exercise their rights if the company doesn't perform well, doesn't go public, or engages in a change of control transaction.

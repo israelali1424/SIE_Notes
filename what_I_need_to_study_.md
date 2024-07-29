@@ -31,3 +31,7 @@ Integration: This is the final stage, where the laundered money is integrated in
 
 
 Check the area of focus from exam for deatils
+chapter 8 
+SEC Rule 145 i
+ The managing underwriter
+ The transfer agent

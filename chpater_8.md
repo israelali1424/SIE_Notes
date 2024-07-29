@@ -86,11 +86,15 @@ Regulation S (Offshore Offerings)
 Used by companies seeking capital overseas to avoid SEC registration.
 Regulation A (Small Business Offerings)
 Focus on this and Regulation S will be covered in a separate lesson.
-Tender Offers
+**Tender Offers**
 An offer to purchase at least 5% of a company's shares directly from shareholders.
 Typically offered at a premium to the current market value.
 May be subject to minimum number of tendered shares.
-Oversubscription: tendered shares may be pro-rated based on the offering amount.
+Oversubscription: If a tender offer is oversubscribed, shares will be accepted proportionately from those shareholders who tendered their shares. In this question, the offer was oversubscribed by a multiple of ten, thus 10
+
+The offer is sent to each share holder and can choose to practiapte or not 
+A tender offer is different than most types of business combinations (e.g., mergers and acquisitions) in that it is an offer made to each shareholder. Shareholders individually decide whether they wish to tender. Based on these results, the company decides whether or not to complete tenders by acquiring shares.
+
 
 # Issuing Securities
 

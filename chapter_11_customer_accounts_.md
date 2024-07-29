@@ -43,6 +43,38 @@
 - Credit Agreement (Loan Terms)
 - Loan Consent Agreement (Optional - Lending Securities for Short Selling)
 
+
+### Margin Requirements for Short Sales
+
+1. **Initial Margin**
+   - **Reg T**: 50% of the market value
+   - **FINRA**: $2,000 minimum
+   - **Actual Requirement**: Greater of Reg T or FINRA minimum
+
+2. **Maintenance Margin**
+   - **Long Positions**: 25% of market value
+   - **Short Positions**: 30% of market value
+   - Note: Firms can set higher requirements
+
+## Margin Requirements by Investment Amount
+
+### Long Margin Accounts
+
+| Investment Amount | Margin Requirement |
+|-------------------|---------------------|
+| $0 - $2,000       | 100% (FINRA rule)   |
+| $2,000 - $4,000   | $2,000 flat amount  |
+| $4,000+           | 50% (Reg T)         |
+
+### Short Margin Accounts
+
+| Investment Amount | Margin Requirement |
+|-------------------|---------------------|
+| $0 - $2,000       | $2,000 flat amount  |
+| $2,000 - $4,000   | $2,000 flat amount  |
+| $4,000+           | 50% (Reg T)         |
+
+
 **Margin Disclosure Document**
 
 - Given to Clients When Opening a Margin Account and Annually Thereafter

@@ -100,3 +100,23 @@ An offering memorandum is a disclosure document usually provided for exempt tran
 
 ![UnderWritingTimeline](./photos/Underwriting_timeline.png)
 ![Exempt_Transcations](./photos/Exempt_Transactions.png)
+
+
+- **Agent Capacity**: 
+  - Underwriters act in an agent capacity when the issuer bears the risk of the offering.
+  - Any unsold issue is returned to the corporation.
+
+- **Best Efforts Underwriting**:
+  - Underwriters sell as much as possible.
+  - Any unsold issue is returned to the issuing corporation.
+
+- **Mini-Max Underwriting**:
+  - A minimum amount must be sold, or the offering is called off.
+  - If the minimum is sold, any unsold portion is returned to the issuer.
+
+- **Firm Commitment Underwriting**:
+  - Underwriters purchase the entire issue.
+
+- **Standby Underwriting**:
+  - A type of firm commitment offering to shareholders with preemptive rights.
+  - Underwriters purchase the shares not subscribed to by current shareholders.

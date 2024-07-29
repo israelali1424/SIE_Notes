@@ -177,3 +177,5 @@ Orders placed below the market are buy
 limits, sell stops, and sell stop limits. Sell
 limits, buy stops and buy stop limits are
 not adjusted on the ex-dividend date.
+**break even**
+The breakeven point for a call option = strike price+premium = 450 + 13 = 463.
