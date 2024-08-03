@@ -9,6 +9,7 @@ Here are the detailed notes on annuities:
 
 **Types of Annuities**:
 1. Fixed Annuity 
+A fixed annuity is a contract with an insurance company which provides a regular stream of fixed payments to the investor (annuitant). In the face of inflation, these payments will represent less purchasing power for the investor, thus making them relatively unattractive in this scenario. The other products listed here will keep pace with inflation and provide the necessary cushion that an investor may be seeking.
     - Return guaranteed at fixed rate by insurance company
     - Risks: Insurer insolvency, purchasing power/inflation risk
     - Premiums invested in insurer's general account

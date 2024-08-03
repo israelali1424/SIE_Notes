@@ -120,3 +120,5 @@ An offering memorandum is a disclosure document usually provided for exempt tran
 - **Standby Underwriting**:
   - A type of firm commitment offering to shareholders with preemptive rights.
   - Underwriters purchase the shares not subscribed to by current shareholders.
+
+A free writing prospectus is used by an issuer to provide additional, updated information to investors beyond what the registration or prospects contains, with the goal being to provide investors with pertinent updates without having to amend their registration statement or prospectus.

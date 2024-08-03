@@ -107,6 +107,7 @@ Here are the detailed notes on FINRA registration and the SEC's relationship wit
 - Series exams (e.g. 7, 79) valid for 2 years before re-exam if not associated  
 - Reps must update Form U4 within 30 days for outside business activities
 - Reps must maintain updated residential address for 2 years after termination
+Records related to a Regulation D (private placement) offering must be maintained for three years from date of final use.
 
 **Reportable Events**:
 - Short sale of mortgage negatively impacts rep's credit and must be reported

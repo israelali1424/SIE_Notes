@@ -1,5 +1,6 @@
 Any associated person that is primarily engaged in municipal underwriting, trading, sales, financial advisory, research, or consultant services is classified as a municipal finance professional subject to MSRB Rule G-37. Registered representatives who do little municipal securities business are generally excluded from the definition.
 
+MSRB Rule G-37 prohibits a firm from engaging in certain municipal securities activities with an issuer for two years after political contributions violations have occurred. These prohibitions apply to negotiated underwriting only, since they are more likely to be influenced than competitive bid underwritings.
 
 MFP 
  A contribution of up to $250 for the primary election and a contribution of up to $250 for the general election
