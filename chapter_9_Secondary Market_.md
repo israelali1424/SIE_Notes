@@ -141,3 +141,41 @@ traded companies
 
 
 Buy stops and sell limits are both placed above the current market price. Buy limits and sell stops are both placed below the current market price.
+
+## Prohibited Practices in the Securities Industry
+
+### 1. Churning
+Excessive trading in a client's account primarily to generate commissions.
+
+### 2. Front-running
+Executing orders on a security for one’s own account while taking advantage of advance knowledge of pending orders from customers.
+
+### 3. Insider Trading
+Buying or selling securities based on material, non-public information.
+
+### 4. Market Manipulation
+Activities designed to deceive or mislead investors by artificially affecting the price or volume of securities. Examples include "painting the tape," "pump and dump," and "spoofing."
+
+### 5. Selling Away
+Engaging in private securities transactions without the knowledge and approval of the employing broker-dealer.
+
+### 6. Unauthorized Trading
+Executing trades in a customer's account without their prior consent or authority.
+
+### 7. Misrepresentation and Omission
+Providing false or misleading information or omitting material information relevant to an investment decision.
+
+### 8. Improper Use of Customer Assets
+Using customer funds or securities for unauthorized purposes.
+
+### 9. Borrowing from or Lending to Customers
+Engaging in financial transactions with customers without proper authorization or compliance with firm policies.
+
+### 10. Falsifying Records
+Altering or forging documents to deceive regulators or customers.
+
+### 11. Sharing in Customer Accounts
+Sharing in the profits or losses of a customer's account without proper authorization and disclosure.
+
+### 12. Interpositioning
+Inserting an unnecessary intermediary in a transaction, leading to increased costs for customers and violating the duty of best execution.

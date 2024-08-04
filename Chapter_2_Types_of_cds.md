@@ -58,3 +58,17 @@
 - **Features:**
   - Combines the benefits of a CD with the tax advantages of an IRA.
   - Subject to IRA contribution limits and rules.
+
+
+  **Double-Barreled Bond**
+   Definition:
+
+   Double-barreled bonds are municipal bonds that are backed by two distinct sources of revenue:
+   **General Obligation (GO) Pledge**: This involves the issuer's taxing power, which means the bond is backed by the full faith and credit of the issuing municipality. The issuer can use property taxes or other available revenue to repay the bond.
+   **Specific Revenue Streams**: These can be revenues generated from specific projects or sources, such as tolls from a toll road or fees from a utility service.
+
+   Special Assessment Bonds
+Definition:
+
+Special assessment bonds are municipal bonds that are repaid through assessments or charges levied on the properties that directly benefit from the funded project.
+These bonds are often used to finance infrastructure improvements such as roads, sidewalks, water systems, and sewer systems.

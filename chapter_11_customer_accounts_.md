@@ -74,6 +74,12 @@
 | $2,000 - $4,000   | $2,000 flat amount  |
 | $4,000+           | 50% (Reg T)         |
 
+Customers that open margin accounts must sign a hypothecation agreement to pledge
+their securities as collateral for loans from the broker-dealer for margin account
+purchases. The broker-dealer may then rehypothecate the securities to the bank, meaning
+that they are pledged to the bank as collateral for loans to the broker-dealer for lending to
+customers. See textbook section 11.2.2.5
+
 
 **Margin Disclosure Document**
 

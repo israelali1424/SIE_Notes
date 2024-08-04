@@ -173,3 +173,9 @@ Accretion
 The increase in value of a bond that was purchased at a discount, or less than its face value, as it approaches maturity. Accretion can also refer to the growth in earnings and assets after a merger or acquisition.
 Amortization
 The decrease in value of a bond that was purchased at a premium, or more than its face value, as it approaches maturity. Amortization can also refer to the accounting technique used to depreciate intangible assets, such as patents, trademarks, and loans, over their estimated useful life
+
+
+
+**Definition:**
+
+The dated date is the date from which interest begins to accrue on a new issue of bonds. It is the starting point for the calculation of interest payments, regardless of the actual issuance or delivery date of the bonds.

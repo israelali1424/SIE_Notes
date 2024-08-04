@@ -21,6 +21,7 @@ A fixed annuity is a contract with an insurance company which provides a regular
     - Premiums invested in insurer's separate account
 
 **Variable Annuity Lifecycle**:
+Mutal Fund with an insurance wrapper seres 7 guru 
 1. Accumulation Period
     - Money goes into annuity, invested in separate account
     - Tax-deferred growth like retirement accounts
@@ -112,3 +113,8 @@ Here are high-quality notes in markdown format based on the YouTube transcript a
 - Beneficiary pays income tax on gains above cost basis
 
 Remember: Variable annuities are complex products with both insurance and investment components. Understanding their features and tax implications is crucial for both exam success and real-world application.
+
+
+Annuity units in variable annuity contracts fluctuate in value based on the performance
+of separate account assets. The number of units is fixed but their value continues to
+fluctuate. S
